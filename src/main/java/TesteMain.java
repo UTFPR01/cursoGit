@@ -6,5 +6,6 @@ public class TesteMain {
 
         int j = 0;
         j++;
+        System.out.println(j);
     }
 }
