@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-*.TesteGit/src/main/java/Animal.java
+*.src/main/java/Animal.java
 
 ### Eclipse ###
 .apt_generated
@@ -31,7 +31,7 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-!**/src/main/java/Animal.java
+.src/main/java/Animal.java
 
 ### VS Code ###
 .vscode/
