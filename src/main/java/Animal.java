@@ -20,6 +20,7 @@ public class Animal {
 
     public int geraIdade(){
         this.idade = this.getIdade() + 2;
+        int i = this.idade - 1;
         return idade;
     }
 }
