@@ -20,12 +20,13 @@ public class Animal {
 
     public int geraIdade(){
         this.idade = this.getIdade() + 2;
-        int i = this.idade - 1;
+        int i = this.idade - 3;
         return idade;
     }
 
     public String informaRaca(){
-        String descricao = "VIra lata";
+
+      String  descricao = "pitbull";
         return descricao;
     }
 }

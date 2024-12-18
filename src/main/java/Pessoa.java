@@ -3,7 +3,7 @@ private int cpf;
 private String nome;
 
     public int getCpf() {
-        return cpf;
+        return cpf -1;
     }
 
     public void setCpf(int cpf) {
