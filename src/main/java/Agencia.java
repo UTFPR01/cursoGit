@@ -1,8 +1,8 @@
 public class Agencia {
 
     private int conta; //adicinado novamente
-    private String titular;
-    private int codigoFuncionario = 0;
+    private String titular = "Branco";
+    private int codigoFuncionario = 12;
 
     public int getConta() {
         return conta;
