@@ -23,4 +23,9 @@ public class Animal {
         int i = this.idade - 1;
         return idade;
     }
+
+    public String informaRaca(){
+        String descricao = "VIra lata";
+        return descricao;
+    }
 }
